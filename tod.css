@@ -1,0 +1,81 @@
+body {
+    background-color: brown;
+        margin: 70px 0;
+        justify-content: center;
+        display: flex;
+}
+.contains {
+    text-align: center;
+    background-color: white;
+    padding: 50px;
+    width: 350px;
+    border-radius: 7px;
+}
+.ban{
+    font-size: 30px;
+    font-weight:300;
+    height: 400;
+    text-align: center;
+    color: black;
+    
+}
+input[type="text"] {
+    outline: none;
+    border: 3px solid gray;
+    font-weight: bold;
+    height: 15px;
+    
+}
+    
+
+input[type="text"] {
+    outline: none;
+    border: 3px solid gray;
+    font-weight: bold;
+    height: 15px;
+    
+}
+    
+input[type="text"] {
+    outline: none;
+    border: 3px solid gray;
+    font-weight: bold;
+    height: 15px;
+    
+
+}
+    
+input[type="text"] {
+    outline: none;
+    border: 3px solid gray;
+    font-weight: bold;
+    height: 15px;
+    
+}
+.bin li{
+    list-style: none;
+    height: 50px;
+    line-height: 50px;
+    position: relative;
+    background: white;
+    border-radius: 3px;
+    margin-right:70px ;
+    justify-content: center;
+    
+    
+
+}
+.bin li button{
+    
+    position: absolute;
+    right: 0px;
+    color: black;
+    width: 70px;
+    margin: 15px 0;
+    float: right;
+    
+
+
+}
+
+    
